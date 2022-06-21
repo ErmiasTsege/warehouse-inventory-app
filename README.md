@@ -5,7 +5,7 @@
 
 *About The Project*
 
-- To build a warehouse inventory management system prototype.
+- To build a warehouse inventory management system prototype and build containerized app.
 - As a warehouse employee, I can view the warehouses in the database as a dynamic web page.  Warehouses have a unique name, location, image, and capacity.
 - As a warehouse employee, I can add and remove palettes of inventory from a warehouse using a graphical user interface.  Palettes can only be added to warehouses with available capacity.
 - As a warehouse employee, I can add and remove boxes of inventory from a palette using a graphical user interface.  Boxes can only be added to palettes with available capacity.
