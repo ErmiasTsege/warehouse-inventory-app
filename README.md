@@ -107,6 +107,8 @@
 1. Ermias Tsage
 2. Anuja Surawashi
 3. Nadege Tenku
-4. Michael Dunn-OConnor (Coach)
+4. Yacob Dita
+5. Ilancheyan Ratna
+6. Michael Dunn-OConnor (Coach)
 
                                                 **Thank You**
