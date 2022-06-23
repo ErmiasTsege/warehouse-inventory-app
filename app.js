@@ -21,7 +21,7 @@ Pallet.hasMany(Box)
 Box.belongsTo(Pallet)
 Warehouse.hasMany(Employee)
 Employee.belongsTo(Warehouse)
-// await db.sync();
+// db.sync();
 const port = 3000;
 const app = express();
 app.use(express.json())
