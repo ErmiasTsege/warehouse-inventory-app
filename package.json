@@ -6,10 +6,7 @@
   "scripts": {
     "test": "jest",
     "test:report": "jest --coverage=true",
-    "seed": "node bin/populateDb.js"
-  
-
-    
+    "seed": "node bin/populateDb.js"    
   },
   "repository": {
     "type": "git",
